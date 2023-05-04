@@ -1,11 +1,11 @@
 //Component example with Event handlers
 // function Football() {
-//     shot = () => {
+//     const shoot = () => {
 //         alert("Great Shoot");
 //     }
 
 //     return (
-//         <button onClick={this.shot}>Take the Shot</button>
+//         <button onClick={shoot}>Take the Shot</button>
 //     )
 // }
 
